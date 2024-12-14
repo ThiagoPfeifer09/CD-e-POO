@@ -5,10 +5,10 @@ Repositório de Algoritmos e Classificação de Dados, que inclui a programaçã
 
 ## Trabalhos Práticos
 
-### TP1 - Trabalho Prático 1
+### TP1 - Algoritmos de Ordenação
 Este trabalho valida todos os algoritmos de **ordenação** que foram desenvolvidos em aula. Os algoritmos foram baseados nos pseudocódigos apresentados durante as aulas, além de algumas referências externas devidamente creditadas no relatório.
 
-### TP2 - Trabalho Prático 2
+### TP2 - Grafos
 Este trabalho valida todos os algoritmos de **grafos**, implementados em lista ou matriz de adjacências.
 
 ### TP3 - Árvore B

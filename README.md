@@ -1,6 +1,6 @@
 # CD-e-POO
 Repositório de Algoritmos e Classificação de Dados, que inclui a programação orientada a objetos.
-
+POR THIAGO PFEIFER E PEDRO AFONSO PIRES
 ---
 
 ## Trabalhos Práticos
@@ -18,7 +18,7 @@ Neste trabalho foi desenvolvido o conteúdo relacionado à **Árvore B**, escolh
 
 ## Referências
 
-- Este repositório foi desenvolvido por mim em colaboração com **Pedro Afonso Barcellos Pires** e **Otávio Gracia Farias**.
+- Os TP 2 e 3 foram desenvolvido por nós em colaboração com **Otávio Gracia Farias**.
 - Slides apresentados em aula e disponíveis no Moodle, da disciplina de Algoritmos e Classificação de Dados, ministrada pelo professor **Carlos Michel Betemps**.
 - [Material complementar da USP sobre algoritmos para grafos](https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/bellman-ford.html)
 - [Aula 13 de algoritmos da USP](https://www.each.usp.br/digiampietri/SIN5013/Karina_Aula13AA.pdf)

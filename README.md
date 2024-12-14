@@ -1,4 +1,4 @@
-# CD-e-POO
+# Classificação de Dados 
 Repositório de Algoritmos e Classificação de Dados, que inclui a programação orientada a objetos.
 POR THIAGO PFEIFER E PEDRO AFONSO PIRES
 ---

@@ -15,6 +15,10 @@ Este trabalho valida todos os algoritmos de **grafos**, implementados em lista o
 Neste trabalho foi desenvolvido o conteúdo relacionado à **Árvore B**, escolhido como alternativa à implementação de Trie.
 
 ---
+## Demais códigos
+
+Os demais códigos que estão no repositório são aqueles que não foram usados em nenhum Trabalho Prático e apenas estão aqui como forma de mostrar o que mais foi feito além daqueles que usados nos TP's
+
 
 ## Referências
 
@@ -28,6 +32,9 @@ Neste trabalho foi desenvolvido o conteúdo relacionado à **Árvore B**, escolh
 - Arquivos e slides disponibilizados no Moodle.
 - Acervo "musica.csv" cedido pelo professor **Julio Saraçol Domingues Junior**.
 
+---
+*NOTA IMPORTANTE:*
+Não colocamos o desenvolvimento de algoritmos que fizemos antes e possuem o mesmo conteúdo para não ficar confuso e porque acabram ficando desorganizados, acreditamos que desta forma ficou melhor, *MAS TEMOS OS CÓDIGOS FEITOS SEPARADAMENTE, SE DESEJAR É SÓ PEDIR*
 ---
 
 Este repositório é parte das atividades realizadas na disciplina de Algoritmos e Classificação de Dados.

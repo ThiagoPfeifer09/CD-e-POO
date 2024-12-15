@@ -34,7 +34,7 @@ Os demais códigos que estão no repositório são aqueles que não foram usados
 
 ---
 *NOTA IMPORTANTE:*
-Não colocamos o desenvolvimento de algoritmos que fizemos antes e possuem o mesmo conteúdo dos trabalhos práticos, para não ficar confuso e porque acabram ficando desorganizados, acreditamos que desta forma ficou melhor, *MAS TEMOS OS CÓDIGOS FEITOS SEPARADAMENTE, SE DESEJAR É SÓ PEDIR*
+Não colocamos o desenvolvimento de algoritmos que fizemos antes e possuem o mesmo conteúdo dos trabalhos práticos, para não ficar confuso e porque acabaram ficando desorganizados, acreditamos que desta forma ficou melhor, *MAS TEMOS OS CÓDIGOS FEITOS SEPARADAMENTE, SE DESEJAR É SÓ PEDIR*
 ---
 
 Este repositório é parte das atividades realizadas na disciplina de Algoritmos e Classificação de Dados.
